@@ -1,6 +1,6 @@
 gridstatus_api_key.txt
 nrel_api_key_details.txt
 *.zip
-output_timeseries/*
+output_timeseries/*.csv
 output_timeseries - Copy
 PVSC_Final.ipynb
